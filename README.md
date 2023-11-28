@@ -1,2 +1,4 @@
-# climatefood repository for uploading relevant literature
+## Geo710B Climate and food project
+
+#### repository for uploading relevant literature
 
